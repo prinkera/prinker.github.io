@@ -1792,7 +1792,7 @@ body {
   height: 64px;
   font-size: 32px;
   border-radius: 50%;
-  border: 2px solid #efefef;
+  border: 2px solid #232323;
 }
 @media (max-width: 767px) {
   .cid-rmqVU3XchI .step {
@@ -1811,7 +1811,7 @@ body {
   content: "";
   width: 2px;
   height: calc(100% - (32px + 4px) * 2);
-  background-color: #efefef;
+  background-color: #232323;
 }
 @media (max-width: 767px) {
   .cid-rmqVU3XchI .separline:after {
